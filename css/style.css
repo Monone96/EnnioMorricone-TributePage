@@ -1,0 +1,84 @@
+/* ----- General ----- */
+body {
+  background-color: #a3987a;
+  color: #d1d0bc;
+  text-align: center;
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+}
+
+/* ----- Image + title ----- */
+#img-div {
+  padding-bottom: 30px;
+  margin: auto;
+  position: relative;
+  margin: auto;
+  max-width: 100%;
+}
+
+#img-caption {
+  display: block;
+  margin: 15px 0;
+  position: absolute;
+  left: 2%;
+  bottom: 2vw;
+}
+
+#image {
+  width: 100%;
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+
+#title {
+  position: absolute;
+  color: #75712f;
+  top: 5%;
+  right: 5%;
+  font-family: 'Lobster Two', cursive;
+  font-size: 6vw;
+}
+
+h3 {
+  position: absolute;
+  color: #75712f;
+  top: 20%;
+  right: 5%;
+  font-family: 'Lobster Two', cursive;
+  font-size: 3vw;
+}
+
+#date {
+  top: 27%;
+}
+
+/* ----- Description ----- */
+
+
+#tribute-info {
+  display: inline;
+  text-align: center;
+  line-height: 2.5;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+
+#tribute-link {
+  color: white;
+}
+
+footer {
+  font-size: 26px;
+}
